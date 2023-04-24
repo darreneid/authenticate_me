@@ -1,0 +1,19 @@
+{
+  "name": "practice-for-ch-react-authenticate-me-long-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install --prefix ./frontend && npm run build --prefix ./frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.x"
+  }
+}
